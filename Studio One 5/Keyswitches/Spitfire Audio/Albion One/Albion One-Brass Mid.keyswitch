@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="Albion One-Brass Mid">
+	<Attributes pitch="0" name="Short"/>
+	<Attributes pitch="1" name="Long"/>
+</Music.KeySwitchList>

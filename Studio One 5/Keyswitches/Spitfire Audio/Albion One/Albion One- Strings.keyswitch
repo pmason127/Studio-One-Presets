@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="Albion One- Strings">
+	<Attributes pitch="0" name="Spiccato"/>
+	<Attributes pitch="1" name="Spiccato/Staccato"/>
+	<Attributes pitch="2" name="Pizzicator"/>
+	<Attributes pitch="3" name="Col Legno"/>
+	<Attributes pitch="4" name="Long Con Sordino"/>
+	<Attributes pitch="5" name="Tremolo"/>
+	<Attributes pitch="6" name="Low 8vas Short"/>
+	<Attributes pitch="7" name="Low 8vas Long"/>
+</Music.KeySwitchList>
