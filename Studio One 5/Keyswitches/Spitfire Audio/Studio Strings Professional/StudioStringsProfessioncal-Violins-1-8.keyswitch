@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="StudioStringsProfessioncal-Violins-1-8">
+	<Attributes pitch="0" name="Legato"/>
+	<Attributes pitch="1" name="Long"/>
+	<Attributes pitch="2" name="Long CS"/>
+	<Attributes pitch="3" name="Flautando"/>
+	<Attributes pitch="4" name="Tremolo"/>
+	<Attributes pitch="5" name="Spiccato"/>
+	<Attributes pitch="6" name="Pizzicato"/>
+</Music.KeySwitchList>
