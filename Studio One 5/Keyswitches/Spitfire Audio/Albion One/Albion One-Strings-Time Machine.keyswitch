@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="Albion One-Strings-Time Machine">
+	<Attributes pitch="0" name="Spiccato"/>
+	<Attributes pitch="1" name="Spic/Stac"/>
+	<Attributes pitch="2" name="Pizzicato"/>
+	<Attributes pitch="3" name="Col Legno"/>
+	<Attributes pitch="7" name="Low 8ves Short"/>
+</Music.KeySwitchList>
