@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name=" StudioStringsProf-q-Basses">
+	<Attributes pitch="0" name="Legato"/>
+	<Attributes pitch="1" name="Long"/>
+	<Attributes pitch="2" name="Flautando"/>
+	<Attributes pitch="3" name="Tremolo"/>
+	<Attributes pitch="4" name="Spiccato"/>
+	<Attributes pitch="5" name="Pizzicato"/>
+</Music.KeySwitchList>
