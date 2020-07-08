@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="Albion One-Brass Legato">
+	<Attributes pitch="0" name="Brass Low (Octaves)"/>
+	<Attributes pitch="1" name="Brass mid"/>
+	<Attributes pitch="2" name="Brass High (Octaves)"/>
+</Music.KeySwitchList>

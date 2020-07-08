@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="Albion One-String  Legato">
+	<Attributes pitch="0" name="String Full Octaves"/>
+	<Attributes pitch="1" name="String Low Octaves"/>
+	<Attributes pitch="2" name="String Mid"/>
+	<Attributes pitch="3" name="String High Octaves"/>
+</Music.KeySwitchList>
