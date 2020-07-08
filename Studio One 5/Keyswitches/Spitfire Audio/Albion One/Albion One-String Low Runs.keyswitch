@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="Albion One-String Low Runs">
+	<Attributes pitch="0" name="Chrm. Asc. 1 oct."/>
+	<Attributes pitch="1" name="Chrm. Asc. 2 oct."/>
+	<Attributes pitch="2" name="Chrm. Asc. 3 oct. fl"/>
+	<Attributes pitch="3" name="Chrm. Desc. 1 Oct."/>
+	<Attributes pitch="4" name="Chrm. Desc. 2 Oct."/>
+	<Attributes pitch="5" name="Chrm. Desc. 3 Oct. fl"/>
+	<Attributes pitch="6" name="Maj. Asc. 1 Oct."/>
+	<Attributes pitch="7" name="Maj. Asc. 2 Oct."/>
+	<Attributes pitch="8" name="Maj. Asc. 1 Oct. fl"/>
+	<Attributes pitch="9" name="Maj. Desc. 1 Oct."/>
+	<Attributes pitch="10" name="Maj. Desc. 2 Oct."/>
+	<Attributes pitch="11" name="Maj. Desc. 1 Oct. fl"/>
+	<Attributes pitch="12" name="Min. Asc. 1 oct."/>
+	<Attributes pitch="13" name="Min. Asc. 2 oct."/>
+	<Attributes pitch="14" name="Min. Asc. 1 oct. fl"/>
+	<Attributes pitch="15" name="Min. Desc. 1 Oct."/>
+	<Attributes pitch="16" name="Min. Desc. 2 Oct."/>
+	<Attributes pitch="17" name="Min. Desc. 1 Oct. fl."/>
+</Music.KeySwitchList>
