@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="Albion One-Strings High Runs">
+	<Attributes pitch="0" name="Brs/Str High Trem"/>
+	<Attributes pitch="1" name="Brs/Str. Low CS"/>
+	<Attributes pitch="2" name="Brs/Str. 8ve Short"/>
+	<Attributes pitch="3" name="Strings Long/CS"/>
+	<Attributes pitch="4" name="Brs/Str. Nasty CS"/>
+	<Attributes pitch="5" name="String CS/Trem"/>
+	<Attributes pitch="6" name="Wd/Str. Trem"/>
+	<Attributes pitch="7" name="Brs/Str. Col Leg"/>
+	<Attributes pitch="8" name="Brs/Wd/Str. Trem"/>
+	<Attributes pitch="9" name="Wd/Brs/Str. Low"/>
+	<Attributes pitch="10" name="Wd/Brs. High Short"/>
+	<Attributes pitch="11" name="Wd/Brs. Low"/>
+	<Attributes pitch="12" name="Wd/Str. Low CS"/>
+	<Attributes pitch="13" name="Wd/Str. Low 8ve"/>
+	<Attributes pitch="14" name="Wd/Str. Sort Col "/>
+</Music.KeySwitchList>
