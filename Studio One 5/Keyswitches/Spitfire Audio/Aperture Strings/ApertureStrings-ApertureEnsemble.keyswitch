@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="ApertureStrings-ApertureEnsemble">
+	<Attributes pitch="12" name="Long"/>
+	<Attributes pitch="13" name="Long CS"/>
+	<Attributes pitch="14" name="Con Sordino"/>
+	<Attributes pitch="15" name="Flautando"/>
+	<Attributes pitch="16" name="Long Harmonics"/>
+	<Attributes pitch="17" name="Spiccato"/>
+	<Attributes pitch="18" name="Pizzicato"/>
+	<Attributes pitch="19" name="Col Legno"/>
+	<Attributes pitch="20" name="Tremolo"/>
+</Music.KeySwitchList>
