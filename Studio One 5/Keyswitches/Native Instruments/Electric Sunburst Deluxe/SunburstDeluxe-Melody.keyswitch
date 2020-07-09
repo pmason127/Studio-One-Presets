@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="SunburstDeluxe-Melody">
+	<Attributes pitch="36" name="open"/>
+	<Attributes pitch="37" name="muted"/>
+	<Attributes pitch="38" name="Flag"/>
+	<Attributes pitch="39" name="Trem"/>
+</Music.KeySwitchList>

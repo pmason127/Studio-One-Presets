@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="StudioWoodwindsProf-Flute">
+	<Attributes pitch="0" name="Legato"/>
+	<Attributes pitch="1" name="Long"/>
+	<Attributes pitch="2" name="Tremolo"/>
+	<Attributes pitch="3" name="Marcato"/>
+	<Attributes pitch="4" name="Tenuto"/>
+	<Attributes pitch="5" name="Staccato"/>
+	<Attributes pitch="6" name="Staccatissimo"/>
+	<Attributes pitch="7" name="Tril minor 2nd"/>
+	<Attributes pitch="8" name="Trill Maj 2nd"/>
+</Music.KeySwitchList>
